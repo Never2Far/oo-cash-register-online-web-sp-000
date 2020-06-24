@@ -11,7 +11,7 @@ def total
 end
 
 
-def add_item(title, price, qty*)
+def add_item(title, price, qty = 1)
   total_backup = @total
 end
 
