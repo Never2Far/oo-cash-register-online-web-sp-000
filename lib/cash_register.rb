@@ -4,7 +4,7 @@ attr_accessor :total, :discount
 
 
 def initialize(emp_discount = 0)
-  @total = 0
+  @total = 0.0
   @discount = emp_discount
   @items = []
 end
@@ -25,6 +25,7 @@ end
 
 
 def apply_discount
+  @total -= @total*(discount / 100.0)
 end
 
 # def
