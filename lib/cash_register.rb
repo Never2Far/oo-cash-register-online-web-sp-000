@@ -7,7 +7,7 @@ end
 
 
 def total
-  
+
 end
 
 
@@ -19,19 +19,19 @@ end
 def apply_discount
 end
 
-def 
+def
 end
 
-def 
+def
 end
 
-def 
+def
 end
 
-def 
+def
 end
 
-def 
+def
 end
 
 end
