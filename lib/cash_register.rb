@@ -22,22 +22,19 @@ end
 def apply_discount
 end
 
-def
-end
+# def
+# end
+#
+# def
+# end
+#
+# def
+# end
+#
+# def
+# end
+#
+# def
+# end
 
-def
-end
-
-def
-end
-
-def
-end
-
-def
-end
-
-end
-
-end
 end
